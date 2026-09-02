@@ -1,0 +1,6 @@
+{
+  "name": "GearShift Spares",
+  "description": "Automobile spare parts marketplace with vehicle compatibility finder, AI part identifier, multi-seller comparison, and workshop support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
